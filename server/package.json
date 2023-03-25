@@ -1,0 +1,24 @@
+{
+  "name": "free-chat-gpt",
+  "version": "1.0.0",
+  "description": "Access the ChatGPT without any intruption and leakage of network and full to free.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ChatGPT",
+    "Chat",
+    "GPT",
+    "OpenAI",
+    "Open",
+    "AI",
+    "chatgpt3",
+    "chatgpt4"
+  ],
+  "author": "codesam",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^3.2.1"
+  }
+}
